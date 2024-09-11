@@ -35,11 +35,11 @@
     "@nomiclabs/hardhat-etherscan": "3.x",
     "@nomiclabs/hardhat-solhint": "2.x",
     "@nomiclabs/hardhat-waffle": "2.x",
-    "@tenderly/hardhat-tenderly": "1.x",
+    "@tenderly/hardhat-tenderly": "2.0.1",
     "@typechain/ethers-v5": "10.x",
     "@typechain/hardhat": "6.x",
     "dotenv": "16.x",
-    "ethereum-waffle": "3.x",
+    "ethereum-waffle": "4.0.0",
     "hardhat-deploy": "^0.11.12",
     "hardhat-deploy-ethers": "0.3.0-beta.13",
     "typechain": "8.x"
