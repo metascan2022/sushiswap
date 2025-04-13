@@ -18,7 +18,7 @@
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.5",
     "@hookform/resolvers": "^2.8.10",
-    "@octokit/auth-app": "^4.0.4",
+    "@octokit/auth-app": "^7.2.1",
     "@sushiswap/chain": "workspace:*",
     "@sushiswap/currency": "workspace:*",
     "@sushiswap/format": "workspace:*",
