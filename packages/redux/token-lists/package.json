@@ -15,7 +15,7 @@
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/contracts": "^5.0.0",
     "@ethersproject/hash": "^5.0.0",
-    "@ethersproject/providers": "^5.0.0",
+    "@ethersproject/providers": "^5.8.0",
     "ajv": "^6.12.3",
     "cids": "^1.1.9",
     "multicodec": "^3.2.1",
